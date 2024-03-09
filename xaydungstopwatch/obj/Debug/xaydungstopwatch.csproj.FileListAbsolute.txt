@@ -1,0 +1,7 @@
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydungstopwatch\xaydungstopwatch\bin\Debug\xaydungstopwatch.exe.config
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydungstopwatch\xaydungstopwatch\bin\Debug\xaydungstopwatch.exe
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydungstopwatch\xaydungstopwatch\bin\Debug\xaydungstopwatch.pdb
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydungstopwatch\xaydungstopwatch\obj\Debug\xaydungstopwatch.csproj.AssemblyReference.cache
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydungstopwatch\xaydungstopwatch\obj\Debug\xaydungstopwatch.csproj.CoreCompileInputs.cache
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydungstopwatch\xaydungstopwatch\obj\Debug\xaydungstopwatch.exe
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydungstopwatch\xaydungstopwatch\obj\Debug\xaydungstopwatch.pdb
